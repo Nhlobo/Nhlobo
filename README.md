@@ -12,13 +12,12 @@
 ].forEach((e) => { console.log(e) });
 ```
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect-on%20LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/nhlovo-mathebula)
+### Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
-[![Send Email](https://img.shields.io/badge/Send%20Email-on%20Gmail-red?logo=gmail&style=for-the-badge)](nhlobo365@gmail.com)
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/Nhlobo?color=%231DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/Nhlobo365?t=I7IKL5fp-gY4cznyytZ_Lg&s=08)
-
-</div>
+<p align="center">
+ <a href="https://github.com/Nhlobo"><img src="https://icons-for-free.com/iconfiles/png/512/code+collaboration+github+network+round+social+icon-1320086084536018107.png" alt="GitHub" width = 40px></a>
+ <a href="https://www.linkedin.com/in/nhlovo-mathebula">.   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width = 40px></a>
+  <a href="https://twitter.com/Nhlobo365?t=I7IKL5fp-gY4cznyytZ_Lg&s=08">.     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width = 40px></a>
 
 # Thank you for visiting my profile 🙏
 I'm really thankful for your unwavering support ⭐
