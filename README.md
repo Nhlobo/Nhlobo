@@ -12,6 +12,8 @@
 ].forEach((e) => { console.log(e) });
 ```
 
+- 📫 How to reach me: **nhlobo365@gmail.com**
+  
 ### Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
 <p align="center">
