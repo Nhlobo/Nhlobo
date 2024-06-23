@@ -4,7 +4,7 @@
  ```javascript
 // index.js
 [
-  '💻 I am a Junior Back-End Developer',
+  '💻 I am a Junior Front-End Developer',
   '🎯 Currently working on something interesting, improving my skills',
   '💛 Indefinite JavaScript enjoyer',
   '👯 Eager to work in a good team on a cool project',
