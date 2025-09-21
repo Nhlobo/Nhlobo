@@ -1,6 +1,4 @@
-Here’s your updated GitHub profile README, styled in your unique and engaging format, while incorporating your latest achievements and skills:
 
-```markdown
 <h1 align="center">Hi 👋, I'm Nhlobo</h1>
 <h3 align="center">A passionate Software Engineer & Full Stack Developer from South Africa 🇿🇦</h3>
 
@@ -53,4 +51,3 @@ Here’s your updated GitHub profile README, styled in your unique and engaging 
 <p align="center">
   I’m a results-driven Software Engineer and the Founder & CEO of <a href="https://mapengoinnovations.co.za">Mapengo Innovations</a>, where I lead the development of custom web and mobile applications. My expertise spans full-stack development, mobile app development, and team leadership. I thrive on solving complex problems and turning ideas into reality.
 </p>
-```
